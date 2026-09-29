@@ -1,0 +1,24 @@
+{
+  "project_title": "Controlled Protein-Sequence Error Detection Demonstration",
+  "purpose": "Show that the Python workflow detects documented data problems instead of silently accepting or deleting them.",
+  "boundary": "This report uses a disposable copy of the 20-record reference dataset with four deliberate errors: an ID mismatch, an incorrect metadata length, an invalid amino-acid character and an exact duplicate sequence. It tests data-quality checks only. It is not a toxin classifier and does not evaluate biological prediction performance.",
+  "kmer_size": 3,
+  "datasets": [
+    {
+      "label": "Known conotoxin",
+      "benchmark_role": "Controlled error copy of known positive references",
+      "fasta": "error_demo_data/known_conotoxins.fasta",
+      "metadata": "error_demo_data/known_conotoxins_metadata.tsv",
+      "source": "Disposable error-test copy of UniProtKB reviewed records",
+      "download_date": "2026-08-05"
+    },
+    {
+      "label": "Non-toxin neuropeptide",
+      "benchmark_role": "Unchanged control copy",
+      "fasta": "error_demo_data/non_toxin_neuropeptides.fasta",
+      "metadata": "error_demo_data/non_toxin_neuropeptides_metadata.tsv",
+      "source": "Disposable copy of UniProtKB reviewed records",
+      "download_date": "2026-08-05"
+    }
+  ]
+}

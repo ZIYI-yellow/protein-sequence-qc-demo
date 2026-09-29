@@ -1,0 +1,9 @@
+CONTROLLED ERROR INJECTION MANIFEST
+The original data files were not changed.
+
+1. ID mismatch: A0A384E129 changed to BROKEN_ID_001
+2. Metadata length increased by 7 for: K8DWB5
+3. Invalid amino-acid symbol Z inserted in: sp|P01522|O16A_CONGE
+4. Exact duplicate sequence created: sp|P0C195|CM3A_CONKI duplicates sp|P0C1V7|CA1AB_CONAN
+
+Expected result: the QC workflow should flag these errors.

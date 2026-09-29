@@ -1,0 +1,24 @@
+{
+  "project_title": "Protein Sequence Quality-Control Demonstration",
+  "purpose": "Show a clear and reproducible workflow for reading reference protein sequences, checking data quality and producing traceable descriptive evidence.",
+  "boundary": "This small reviewed-reference benchmark is not a toxin classifier, does not analyse a published genome and does not claim discovery of a novel venom peptide or therapeutic lead. The records mix precursor proteins with fragment or mature-peptide entries, so their lengths and signal-peptide status are not directly comparable.",
+  "kmer_size": 3,
+  "datasets": [
+    {
+      "label": "Known conotoxin",
+      "benchmark_role": "Known positive reference",
+      "fasta": "data/known_conotoxins.fasta",
+      "metadata": "data/known_conotoxins_metadata.tsv",
+      "source": "UniProtKB reviewed records",
+      "download_date": "2026-08-05"
+    },
+    {
+      "label": "Non-toxin neuropeptide",
+      "benchmark_role": "Plausible non-toxin control",
+      "fasta": "data/non_toxin_neuropeptides.fasta",
+      "metadata": "data/non_toxin_neuropeptides_metadata.tsv",
+      "source": "UniProtKB reviewed records",
+      "download_date": "2026-08-05"
+    }
+  ]
+}

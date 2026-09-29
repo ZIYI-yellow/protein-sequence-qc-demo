@@ -1,0 +1,7 @@
+run_time=2026-09-29T21:37:04+08:00
+python_version=3.12.14
+python_executable=python.exe
+platform=Windows-11-10.0.26200-SP0
+config_sha256=364d36f5e257495e5e07c8754eb1f0536024172573a4f8d9f7ac43d64ace23b5
+records=20
+kmer_size=3

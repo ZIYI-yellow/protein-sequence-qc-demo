@@ -1,0 +1,5 @@
+﻿group,role,file_type,file_name,relative_path,sha256,file_size_bytes,record_count,source,download_date
+Known conotoxin,Known positive reference,FASTA,known_conotoxins.fasta,data\known_conotoxins.fasta,0c145690a857c0eaf9c2233c5295dd669661bea35d7612457a8d98fde46bdc36,1401,10,UniProtKB reviewed records,2026-08-05
+Known conotoxin,Known positive reference,TSV metadata,known_conotoxins_metadata.tsv,data\known_conotoxins_metadata.tsv,b2edbe4505397cbfdb3459be5dfaf9b8538fca22992db92c56c0268e7a631f67,11726,10,UniProtKB reviewed records,2026-08-05
+Non-toxin neuropeptide,Plausible non-toxin control,FASTA,non_toxin_neuropeptides.fasta,data\non_toxin_neuropeptides.fasta,9c648184747b848f232e65cdc4dbd9a8ae20a2a96fb0be192b89fbd8713d9741,1746,10,UniProtKB reviewed records,2026-08-05
+Non-toxin neuropeptide,Plausible non-toxin control,TSV metadata,non_toxin_neuropeptides_metadata.tsv,data\non_toxin_neuropeptides_metadata.tsv,16450c6ce286bba8d2df546bd4836366ee35513afe6b7bf7e4fb22ec01a22a9a,11611,10,UniProtKB reviewed records,2026-08-05

@@ -1,0 +1,12 @@
+PROTEIN SEQUENCE QC DEMO
+Run time: 2026-09-29T21:37:04+08:00
+Records analysed: 19
+Unmatched FASTA/TSV IDs: 2
+Length mismatches: 2
+FASTA/TSV sequence mismatches: 2
+Missing required metadata fields: 0
+Invalid amino-acid symbols: 1
+Records involved in exact duplicates: 2
+
+BOUNDARY
+This report uses a disposable copy of the 20-record reference dataset with four deliberate errors: an ID mismatch, an incorrect metadata length, an invalid amino-acid character and an exact duplicate sequence. It tests data-quality checks only. It is not a toxin classifier and does not evaluate biological prediction performance.

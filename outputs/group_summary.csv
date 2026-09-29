@@ -1,0 +1,3 @@
+﻿group,n,median_length,min_length,max_length,median_cysteine_pct,min_cysteine_pct,max_cysteine_pct,secreted_n,toxin_keyword_n,length_match_n,sequence_match_n,invalid_residue_total,exact_duplicate_n
+Known conotoxin,10,68.0,17,80,9.74076983503535,7.142857142857143,27.272727272727273,10,10,10,10,0,0
+Non-toxin neuropeptide,10,89.0,66,98,2.051335998316852,1.0309278350515463,2.7777777777777777,10,0,10,10,0,0

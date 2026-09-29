@@ -1,0 +1,22 @@
+﻿group,entry,in_fasta,in_metadata,matched
+Known conotoxin,A0A384E129,True,False,False
+Known conotoxin,BROKEN_ID_001,False,True,False
+Known conotoxin,K8DWB5,True,True,True
+Known conotoxin,P01522,True,True,True
+Known conotoxin,P0C195,True,True,True
+Known conotoxin,P0C1V7,True,True,True
+Known conotoxin,P0C828,True,True,True
+Known conotoxin,P0C829,True,True,True
+Known conotoxin,P0DM21,True,True,True
+Known conotoxin,Q9BH73,True,True,True
+Known conotoxin,Q9BPG6,True,True,True
+Non-toxin neuropeptide,P01303,True,True,True
+Non-toxin neuropeptide,P01304,True,True,True
+Non-toxin neuropeptide,P07808,True,True,True
+Non-toxin neuropeptide,P0C0P6,True,True,True
+Non-toxin neuropeptide,P0C0P7,True,True,True
+Non-toxin neuropeptide,P0C0P8,True,True,True
+Non-toxin neuropeptide,P57774,True,True,True
+Non-toxin neuropeptide,Q18234,True,True,True
+Non-toxin neuropeptide,Q6IGX9,True,True,True
+Non-toxin neuropeptide,Q6RUW3,True,True,True

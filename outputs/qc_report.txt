@@ -1,0 +1,12 @@
+PROTEIN SEQUENCE QC DEMO
+Run time: 2026-09-29T21:37:04+08:00
+Records analysed: 20
+Unmatched FASTA/TSV IDs: 0
+Length mismatches: 0
+FASTA/TSV sequence mismatches: 0
+Missing required metadata fields: 0
+Invalid amino-acid symbols: 0
+Records involved in exact duplicates: 0
+
+BOUNDARY
+This small reviewed-reference benchmark is not a toxin classifier, does not analyse a published genome and does not claim discovery of a novel venom peptide or therapeutic lead. The records mix precursor proteins with fragment or mature-peptide entries, so their lengths and signal-peptide status are not directly comparable.
